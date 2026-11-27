@@ -56,5 +56,5 @@ MIT（见 `LICENSE`）。第三方依赖遵循各自许可。
 ## 作者
 
 田德盛 · 计算机学院 · 智科 251 · GPA 3.72 / 4.0
-GitHub [@tiandesheng475-OSS](https://github.com/tiandesheng475-OSS) ·
-作品集 <https://tiandesheng475-OSS.github.io/portfolio/>
+GitHub [@tian77-jq](https://github.com/tian77-jq) ·
+作品集 <https://tian77-jq.github.io/portfolio/>
