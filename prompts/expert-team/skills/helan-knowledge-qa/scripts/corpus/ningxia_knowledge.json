@@ -1,0 +1,327 @@
+{
+  "schemaVersion": "1.0",
+  "buildNote": "本语料为《贺兰有灵》银移杯参赛作品的可信知识库 v0.1。所有条目均来自公开可信来源（政府官网、权威媒体、官方文旅平台），并保留 source/evidenceLevel/retrievedAt 元数据。动态信息（门票、开放时间、交通）均标注待核实。禁止将本库内容当作未经核验的权威结论直接使用，回复前必须经证据门校验。",
+  "entries": [
+    {
+      "id": "eco-rock-sheep-protection",
+      "title": "贺兰山岩羊的保护级别与别名",
+      "topic": "ecology",
+      "category": "野生动物",
+      "tags": ["岩羊", "国家二级保护动物", "贺兰山"],
+      "content": "岩羊又名石羊、青羊、蓝羊，是中国国家Ⅱ级重点保护野生动物。它习惯栖息在海拔2100米至6300米之间的高山裸岩地带，因攀登本领高超，被称为'峭壁精灵'。岩羊是典型的高山动物，基本不进入林内，体色与岩石接近，站立或卧于裸岩处很难被发现。",
+      "source": {
+        "name": "银川市人民政府 / 央广网 / 银川新闻网 多篇报道",
+        "publisher": "银川市人民政府门户网站、中央广播电视总台央广网",
+        "url": "https://yinchuan.gov.cn/xwzx/mrdt/202409/t20240923_4669895.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official_media"
+      },
+      "authority": "官方/权威媒体（多源一致）",
+      "verified": true
+    },
+    {
+      "id": "eco-rock-sheep-climbing",
+      "title": "岩羊的攀岩能力与运动特征",
+      "topic": "ecology",
+      "category": "野生动物",
+      "tags": ["岩羊", "攀岩", "生态特点"],
+      "content": "岩羊常十多只或几十只成群活动，具有极高的攀岩技术，被称为动物界的'攀岩高手'。其脚趾间距很宽且可灵活分开，适合插进岩壁缝隙；羊蹄上的悬蹄可在峭壁上静止、起到刹车作用。岩羊听觉、视觉灵敏，行动敏捷，善于在岩石间攀爬跳跃，一跳可达2米至3米，从高向下纵身跳跃可达10米。",
+      "source": {
+        "name": "银川新闻网《看!我们在贺兰山偶遇了一大群岩羊》",
+        "publisher": "银川新闻网（银川日报社）",
+        "url": "https://www.ycen.com.cn/asyc/ask/202009/t20200915_95907.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official_media"
+      },
+      "authority": "权威媒体",
+      "verified": true
+    },
+    {
+      "id": "eco-rock-sheep-population",
+      "title": "贺兰山岩羊种群恢复历程",
+      "topic": "ecology",
+      "category": "生态保护",
+      "tags": ["岩羊", "种群数量", "封山禁牧", "贺兰山国家级自然保护区"],
+      "content": "1983年宁夏贺兰山国家级自然保护区成立（面积193535.68公顷）时，因植被稀疏、家羊抢食与非法捕猎，岩羊种群数量不足1800只。2001年起贺兰山实施封山禁牧，迁出山上600余户牧民及14.8万只家羊，并严厉打击盗猎。至报道时，保护区植被覆盖率达65%以上，岩羊数量已发展到4万多只，贺兰山成为世界岩羊分布密度最高的地区之一。保护区内设有26个岩羊投食点，冬春季节为岩羊补给饲料。",
+      "source": {
+        "name": "新华社/央广网/银川市政府 多篇报道",
+        "publisher": "新华社、央广网、银川市人民政府",
+        "url": "https://www.cnr.cn/nx/jdt/20250812/t20250812_527314519.shtml",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official_media"
+      },
+      "authority": "官方/权威媒体（多源一致）",
+      "verified": true
+    },
+    {
+      "id": "eco-helan-ecosystem-value",
+      "title": "贺兰山森林生态系统的生态服务价值",
+      "topic": "ecology",
+      "category": "生态保护",
+      "tags": ["贺兰山", "生态修复", "涵养水源", "生物多样性"],
+      "content": "贺兰山地处蒙古高原、黄土高原与青藏高原交界地带，地形复杂、气候垂直分布明显，保存着丰富的濒危动植物物种，是岩羊等野生动物的生存乐园。2017年宁夏全面启动贺兰山生态环境整治与修复，生态修复后贺兰山森林生态系统每年涵养水源约5563.03万立方米，固土约132.36万吨，释放氧气约9.44万吨，在涵养水源、防沙固土、气候调节方面发挥巨大作用。马鹿由2002年的约1000头增至3000多头，中国特有种贺兰山鼠兔、一度消失半个多世纪的雪豹也再现踪迹。",
+      "source": {
+        "name": "银川市人民政府《'岩羊司令'眼中的贺兰山生态之变》",
+        "publisher": "银川市人民政府门户网站",
+        "url": "https://yinchuan.gov.cn/xwzx/mrdt/202409/t20240923_4669895.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official"
+      },
+      "authority": "政府官网",
+      "verified": true
+    },
+    {
+      "id": "eco-shapotou-control",
+      "title": "沙坡头治沙工程与生态奇迹",
+      "topic": "ecology",
+      "category": "生态治理",
+      "tags": ["沙坡头", "麦草方格", "治沙", "包兰铁路", "全球环保500佳"],
+      "content": "沙坡头位于中卫市区西约16公里、腾格里沙漠东南边缘。为保障中国第一条沙漠铁路——包兰铁路行车安全，中卫人民探索创造了麦草方格治沙技术和'五带一体'铁路防风固沙体系。以沙坡头为代表的治沙成果1994年被联合国环保组织命名为'全球环保500佳'，麦草方格固沙法获国家科学技术进步奖特等奖并向世界推广。半个多世纪来中卫累计治理沙漠、实现'绿进沙退'，包兰铁路得以畅行至今。",
+      "source": {
+        "name": "央广网 / 中国旅游新闻网 / 中国经济网",
+        "publisher": "中央广播电视总台央广网、中国旅游新闻网、中国经济网",
+        "url": "https://www.cnr.cn/2008zt/cl/hhwsn/200809/t20080917_505102093.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official_media"
+      },
+      "authority": "官方/权威媒体",
+      "verified": true
+    },
+    {
+      "id": "cul-rock-art-overview",
+      "title": "贺兰山岩画总体概况",
+      "topic": "culture",
+      "category": "岩画",
+      "tags": ["贺兰山岩画", "史前艺术", "贺兰口", "人面像"],
+      "content": "贺兰山岩画是远古先民在岩石上刻制的文化艺术瑰宝。在绵延约250公里的贺兰山上分布有4万余幅岩画，其中最为集中、内容最丰富的岩画分布于银川市境内的贺兰口，数量达6000余幅。岩画包括人面像、动物、植物、人体、天体、水纹、生产生活工具、文字等图案及符号，以及史前人类放牧、狩猎、祭祀、争战、娱舞等生活场景，是研究中国人类文化史、宗教史、原始艺术史和古人类历史的文化宝库。注：不同来源对岩画总数表述存在差异（有'4万余幅''5000多幅'等说法），反映统计口径与分布范围不同，具体以官方最新公布为准。",
+      "source": {
+        "name": "银川市人民政府 / 宁夏回族自治区文化和旅游厅",
+        "publisher": "银川市人民政府门户网站、宁夏回族自治区文化和旅游厅",
+        "url": "https://www.yinchuan.gov.cn/sshc/lyjd/zdwbcs/202302/t20230228_3978101.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official"
+      },
+      "authority": "政府官网",
+      "verified": true
+    },
+    {
+      "id": "cul-rock-art-meaning",
+      "title": "贺兰山岩画的文化内涵",
+      "topic": "culture",
+      "category": "岩画",
+      "tags": ["贺兰山岩画", "自然崇拜", "生殖崇拜", "图腾崇拜", "游牧民族"],
+      "content": "贺兰山在古代是匈奴、鲜卑、突厥、回鹘、吐蕃、党项等北方少数民族驻牧游猎、生息繁衍的地方。岩画记录了远古人类约3000至10000年前的生产生活场景，展现了原始氏族部落自然崇拜、生殖崇拜、图腾崇拜、祖先崇拜的文化内涵。贺兰口岩画以人面像数量多而集中名冠世界岩画之首，在世界岩画中占有重要地位。",
+      "source": {
+        "name": "宁夏回族自治区文化和旅游厅 / 银川市人民政府",
+        "publisher": "宁夏回族自治区文化和旅游厅",
+        "url": "https://whhlyt.nx.gov.cn/jqjd/ycs_66553/hlsyh/",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official"
+      },
+      "authority": "政府文旅部门",
+      "verified": true
+    },
+    {
+      "id": "cul-rock-art-protection",
+      "title": "贺兰山岩画的保护身份与荣誉",
+      "topic": "culture",
+      "category": "文物保护",
+      "tags": ["贺兰山岩画", "全国重点文物保护单位", "双遗产预备", "AAAA", "国际岩画峰会"],
+      "content": "贺兰山岩画于1996年被国务院公布为全国重点文物保护单位；2006年被建设部列入首批中国国家自然与文化双遗产预备名录；2008年被评为国家AAAA级旅游景区；2014年被国际岩画峰会组委会确定为'国际岩画峰会永久会址'；1997年被联合国教科文组织国际岩画委员会列入非正式世界文化遗产名录。2008年银川世界岩画馆在贺兰山岩画正式落成开放，是目前世界最大的岩画专题博物馆，集中展示来自31个国家、200多个地区近600件代表性精品。",
+      "source": {
+        "name": "银川市人民政府 / 宁夏回族自治区文化和旅游厅 / 央视网",
+        "publisher": "银川市人民政府、宁夏文旅厅、央视网",
+        "url": "https://www.yinchuan.gov.cn/sshc/lyjd/zdwbcs/202302/t20230228_3978101.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official"
+      },
+      "authority": "政府官网/权威媒体",
+      "verified": true
+    },
+    {
+      "id": "cul-rock-art-dating",
+      "title": "贺兰山岩画的断代争议",
+      "topic": "culture",
+      "category": "学术研究",
+      "tags": ["贺兰山岩画", "断代", "距今1万年至3000年", "无定论"],
+      "content": "贺兰山岩画的断代至今未有定论。岩画多分布于室外崖壁，碳十四测年与树轮法难以适用于凿刻线条；地磁学、钾氩法、热释光等方法可判定事物先后顺序，但对崖壁艺术无法给出可靠年代。因此学界对岩画产生年代的上限存在不同说法（旧石器时代、中石器和新石器时代、新石器时代晚期、商周时期等），彼此差异较大。官方资料一般表述为记录了距今约3000年至10000年前的人类活动场景；较为主流的断代表述区间约为距今1万年至3000年。以上年代均属研究性推测，不应作为确定结论引用。",
+      "source": {
+        "name": "新华网·新华每日电讯《探秘〈水经注〉里的“画石山”》",
+        "publisher": "新华网（新华社）",
+        "url": "http://www.news.cn/politics/2022-12/23/c_1129227156.htm",
+        "retrievedAt": "2026-10-17",
+        "evidenceLevel": "official_media",
+        "visibility": "public",
+        "external_status": "verified",
+        "verification": {
+          "status": "verified",
+          "method": "url_fetched",
+          "checkedAt": "2026-10-17",
+          "note": "页面实际可访问；原文含“对于岩画产生年代的上限……等多种说法，至今未有定论”与“官方资料显示，贺兰山岩画记录了3000至10000年前……”"
+        }
+      },
+      "authority": "官方媒体（新华社）报道，转述多位岩画研究专家观点",
+      "claim_status": "contested",
+      "verified": true
+    },
+    {
+      "id": "cul-xixia-tombs-overview",
+      "title": "西夏陵总体概况",
+      "topic": "culture",
+      "category": "历史遗址",
+      "tags": ["西夏陵", "帝陵", "贺兰山东麓", "考古遗址"],
+      "content": "西夏陵是西夏时期留存至今规模最大、等级最高、保存完整的考古遗存，位于宁夏银川市西夏区，背倚贺兰山、俯瞰银川平原，距市区约35公里。西夏陵由9座帝陵、271处陪葬墓、5.03公顷北端建筑遗址、32处防洪工程遗址等四类遗产要素组成，占地近40平方公里，是公元11—13世纪中国西北农牧交错地带多民族融合、多元文化交流的产物。",
+      "source": {
+        "name": "银川市人民政府 / 文化中国",
+        "publisher": "银川市人民政府门户网站、文化中国",
+        "url": "https://yinchuan.gov.cn/sshc/lyjd/zdwbcs/202511/t20251125_5090985.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official"
+      },
+      "authority": "政府官网/权威媒体",
+      "verified": true
+    },
+    {
+      "id": "cul-xixia-dynasty",
+      "title": "西夏王朝历史脉络",
+      "topic": "culture",
+      "category": "历史",
+      "tags": ["西夏", "公元1038—1227年", "党项", "多民族融合", "丝绸之路"],
+      "content": "西夏（公元1038—1227年），又称大夏国、大白高国，因位于宋朝西北方，史称'西夏'。其疆域大部分属农牧交错地带，生业方式包括畜牧、狩猎、灌溉农业等；除党项族外，还生活着汉、吐蕃、回鹘、鞑靼、契丹、女真等民族。西夏在'丝绸之路'上具有重要的中继枢纽地位，造就了极具文化融汇创新的多民族融合与多元交流文明特色。",
+      "source": {
+        "name": "银川市人民政府《西夏陵》",
+        "publisher": "银川市人民政府门户网站",
+        "url": "https://yinchuan.gov.cn/sshc/lyjd/zdwbcs/202511/t20251125_5090985.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official"
+      },
+      "authority": "政府官网",
+      "verified": true
+    },
+    {
+      "id": "cul-xixia-world-heritage",
+      "title": "西夏陵列入《世界遗产名录》",
+      "topic": "culture",
+      "category": "世界遗产",
+      "tags": ["西夏陵", "世界遗产", "2025年", "中国第60项"],
+      "content": "当地时间2025年7月11日，在法国巴黎召开的联合国教科文组织第47届世界遗产大会通过决议，将'西夏陵'列入《世界遗产名录》，西夏陵由此成为中国第60项世界遗产。世界遗产委员会认可其完整性与真实性，认为西夏陵承袭了唐宋陵寝制度，又融入佛教信仰与党项习俗，见证了西夏在公元11至13世纪丝绸之路文化与商业交流中的独特地位。",
+      "source": {
+        "name": "人民网宁夏频道 / 文化中国",
+        "publisher": "人民网、文化中国",
+        "url": "https://nx.people.com.cn/n2/2025/1118/c192493-41415385.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official_media"
+      },
+      "authority": "权威媒体",
+      "verified": true
+    },
+    {
+      "id": "cul-xixia-museum",
+      "title": "西夏陵博物馆与文物价值",
+      "topic": "culture",
+      "category": "博物馆",
+      "tags": ["西夏陵博物馆", "国家一级博物馆", "鎏金铜牛", "西夏文"],
+      "content": "西夏陵博物馆位于西夏陵文化旅游综合服务区，是一座展示西夏陵遗产价值、保护历程与西夏历史文化的遗址博物馆，2024年被评为国家一级博物馆，基本陈列有《西夏历史文化展》和《西夏陵遗产价值专题展》，是世界范围内收藏展示西夏文物数量最多、种类最丰富的博物馆。馆内重要文物包括1977年出土的鎏金铜牛、西夏文碑刻残片、雕龙栏柱、红陶迦陵频伽等，体现了西夏对中原技艺的学习与多元文化交融。",
+      "source": {
+        "name": "人民网 / 文化中国",
+        "publisher": "人民网、文化中国",
+        "url": "https://cul.china.com.cn/2026-05/18/content_43429056.htm",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official_media"
+      },
+      "authority": "权威媒体",
+      "verified": true
+    },
+    {
+      "id": "cul-shuidonggou",
+      "title": "水洞沟遗址概况",
+      "topic": "culture",
+      "category": "史前遗址",
+      "tags": ["水洞沟", "史前文明", "边塞文化", "遗址"],
+      "content": "水洞沟是连接史前文明、边塞遗址与自然地貌的综合文化体验地，适合了解远古人类活动与边塞历史。景区体验项目较多，建议单独预留半天。注：本条为基础性景区描述，来源于项目自有景区资料（内部资料，外部来源待核实），具体考古年代与权威结论应以文物部门最新公布为准。",
+      "source": {
+        "name": "《贺兰有灵》项目自有景区资料（内部整理）",
+        "publisher": "贺兰有灵项目组",
+        "url": null,
+        "identifier": "internal://helan-lingyou/project-corpus/knowledge-index#cul-shuidonggou",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "project_internal",
+        "visibility": "internal",
+        "external_status": "unverified",
+        "public_citation_allowed": false,
+        "note": "内部资料，外部来源待核实；对外仅可作基础性描述，不得作为官方考古结论引用。"
+      },
+      "authority": "项目内部资料（外部来源待核实）",
+      "claim_status": "internal_unverified",
+      "verified": false
+    },
+    {
+      "id": "travel-helan-rock-art-info",
+      "title": "贺兰山岩画景区实用信息",
+      "topic": "travel",
+      "category": "景区信息",
+      "tags": ["贺兰山岩画", "AAAA", "开放时间", "地址", "中卫→银川"],
+      "content": "贺兰山岩画为国家AAAA级旅游景区、全国重点文物保护单位，位于宁夏银川市贺兰县岩画路（贺兰山贺兰口）。官方公布开放时间约为8:00—18:00，景区咨询电话0951-3948806。注：开放时间与票务政策为动态信息，可能随季节调整，出行前请以景区或文旅部门最新公告为准（待核实）。",
+      "source": {
+        "name": "宁夏回族自治区文化和旅游厅",
+        "publisher": "宁夏回族自治区文化和旅游厅",
+        "url": "https://whhlyt.nx.gov.cn/jqjd/ycs_66553/hlsyh/",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official"
+      },
+      "authority": "政府文旅部门",
+      "verified": true
+    },
+    {
+      "id": "travel-shapotou-info",
+      "title": "沙坡头景区实用信息",
+      "topic": "travel",
+      "category": "景区信息",
+      "tags": ["沙坡头", "5A", "中卫", "大漠黄河高山绿洲", "治沙"],
+      "content": "沙坡头位于宁夏中卫市沙坡头区，地处腾格里沙漠东南边缘，集大漠、黄河、高山、绿洲为一体，2007年入选国家首批5A级旅游景区。代表性体验包括乘羊皮筏子漂流黄河、骑骆驼穿越沙漠、滑沙（沙坡鸣钟为中国四大鸣沙山之一）以及参观治沙工程。注：门票价格、开放时间与项目收费为动态信息，第三方平台（如携程、同程）曾显示成人票约40元起、营业约8:30—17:30，但具体以景区最新公告为准（待核实）。",
+      "source": {
+        "name": "央广网 / 同程旅行 / 携程（动态票务信息待核实）",
+        "publisher": "央广网、同程旅行、携程",
+        "url": "https://www.cnr.cn/2008zt/cl/hhwsn/200809/t20080917_505102093.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official_media"
+      },
+      "authority": "官方媒体（票务信息待核实）",
+      "verified": true
+    },
+    {
+      "id": "travel-xixia-tombs-info",
+      "title": "西夏陵景区实用信息",
+      "topic": "travel",
+      "category": "景区信息",
+      "tags": ["西夏陵", "银川", "国家考古遗址公园", "开放时间"],
+      "content": "西夏陵景区位于银川市西夏区贺兰山东麓，距市区约35公里，包括西夏陵国家考古遗址公园与西夏陵博物馆。第三方平台曾显示成人门票约68元起、园区营业约8:00—20:00，并提供门票+摆渡车、博物馆、3D/4D电影、木活字印刷体验等组合票。注：门票、开放时间与交通接驳为动态信息，请以景区或文旅部门最新公告为准（待核实）。",
+      "source": {
+        "name": "同程旅行 / 银川市人民政府（动态票务信息待核实）",
+        "publisher": "同程旅行、银川市人民政府",
+        "url": "https://yinchuan.gov.cn/sshc/lyjd/zdwbcs/202511/t20251125_5090985.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official_media"
+      },
+      "authority": "政府官网/第三方平台（票务待核实）",
+      "verified": true
+    },
+    {
+      "id": "travel-rock-sheep-watch",
+      "title": "贺兰山岩羊观赏与自然观察",
+      "topic": "travel",
+      "category": "生态体验",
+      "tags": ["岩羊", "贺兰山", "生态观察", "滚钟口"],
+      "content": "贺兰山自然生态保护区以山地生态、岩壁与荒漠交界景观为主题，适合自然观察与生态认知。岩羊常活动于贺兰山高海拔裸岩地带，游客可在滚钟口（银川西北约35公里贺兰山东麓）等区域偶遇岩羊群。注：保护区不同区域管理要求不同，必须按官方开放范围和指定路线游览，不采摘、不投喂、不离开步道；动物出没具随机性，无法保证必定观察到（待现场确认）。",
+      "source": {
+        "name": "银川新闻网 / 银川市人民政府",
+        "publisher": "银川新闻网、银川市人民政府",
+        "url": "https://www.ycen.com.cn/asyc/ask/202009/t20200915_95907.html",
+        "retrievedAt": "2026-10-15",
+        "evidenceLevel": "official_media"
+      },
+      "authority": "权威媒体",
+      "verified": true
+    }
+  ]
+}

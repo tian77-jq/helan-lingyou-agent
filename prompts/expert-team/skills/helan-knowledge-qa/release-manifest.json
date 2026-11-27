@@ -1,0 +1,16 @@
+{
+ "package": "helan-lingyou-ningxia",
+ "version": "1.2.5",
+ "git_commit": "2ddb458f2095466a7ea9e90ca34e1ba4a104dd66",
+ "built_at": "2026-10-20 10:44:03",
+ "engine": {
+  "files": 24,
+  "sha256": "ea26accaef92f211d52b94c99d9eeecb78059928fbfae26d4df8192f4ca5779a"
+ },
+ "corpus": {
+  "files": 2,
+  "sha256": "b49cd5ead38a030cacbedf870c7719375c6985a6a5046e50e9baf3e219f81b77"
+ },
+ "hash_scheme": "sha256 over sorted 'relpath\\0sha256\\n' lines（与 cli.py --version / sync_check.py 同口径）",
+ "runtime_selfcheck": "python \"<包内>/skills/helan-knowledge-qa/scripts/helan_agent/cli.py\" --version"
+}

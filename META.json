@@ -1,0 +1,26 @@
+{
+  "repo": "helan-lingyou-agent",
+  "packaged_at": "2026-11-27T13:49:23+08:00",
+  "sources": [
+    {
+      "src": "D:/SilverCup-Agent/submission/02-prompts",
+      "as": "prompts",
+      "files": 45,
+      "mb": 0.53
+    },
+    {
+      "src": "D:/SilverCup-Agent/submission/07-deployment",
+      "as": "deployment",
+      "files": 9,
+      "mb": 0.11
+    }
+  ],
+  "files": 54,
+  "mb": 0.64,
+  "note": "贺兰有灵：文旅行程 Agent",
+  "secret_scan": {
+    "high": 0,
+    "low": 2
+  },
+  "policy": "白名单复制；排除 .env/密钥/DB/权重/媒体；复制后做敏感扫描，高危命中即中止。"
+}

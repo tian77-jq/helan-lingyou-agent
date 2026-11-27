@@ -1,0 +1,158 @@
+{
+ "name": "helan-lingyou-ningxia",
+ "version": "1.2.5",
+ "description": "Six-agent expert team for Ningxia culture, Helan Mountain ecology and evidence-grounded smart travel planning, with a self-contained deterministic engine (zero third-party dependencies) shipped inside the package for cross-machine reproducibility.",
+ "author": {
+  "name": "SilverCup-Agent Team"
+ },
+ "agents": [
+  "./agents/helan-lingyou-ningxia-team-lead.md",
+  "./agents/helan-culture-expert.md",
+  "./agents/helan-ecology-expert.md",
+  "./agents/helan-travel-planner.md",
+  "./agents/helan-travel-data.md",
+  "./agents/helan-verifier.md"
+ ],
+ "skills": [
+  "./skills/helan-knowledge-qa"
+ ],
+ "expertType": "team",
+ "agentName": "helan-lingyou-ningxia-team-lead",
+ "teamInfo": {
+  "leadAgent": "helan-lingyou-ningxia-team-lead",
+  "memberAgents": [
+   "helan-culture-expert",
+   "helan-ecology-expert",
+   "helan-travel-planner",
+   "helan-travel-data",
+   "helan-verifier"
+  ]
+ },
+ "displayName": {
+  "en": "Helan Spirit · Wander Ningxia",
+  "zh": "贺兰有灵·灵游宁夏"
+ },
+ "profession": {
+  "en": "Helan Spirit · Wander Ningxia",
+  "zh": "贺兰有灵·灵游宁夏"
+ },
+ "displayDescription": {
+  "en": "Six specialists covering Ningxia culture, Helan Mountain ecology Q&A and personalized itinerary planning, with multi-turn revision, traceable evidence and verifiable results.",
+  "zh": "六位专家协同，覆盖宁夏文化、贺兰山生态问答与个性化行程规划，支持多轮修订，证据可追溯、结果可核验。"
+ },
+ "avatar": "avatars/team.png",
+ "categoryId": "12-IndustryConsultant",
+ "defaultInitPrompt": {
+  "zh": "一家四口去宁夏玩三天，预算5000元，想了解贺兰山文化，安排住宿、交通、特色美食和亲子研学，行程不要太累。",
+  "en": "A family of four visiting Ningxia for 3 days on a 5000 CNY budget, interested in Helan Mountain culture, needing lodging, transport, local food and kid-friendly study activities, and not too tiring."
+ },
+ "plugin": "helan-lingyou-ningxia",
+ "tags": [
+  {
+   "en": "Ningxia Culture",
+   "zh": "宁夏文化"
+  },
+  {
+   "en": "Helan Mountain Ecology",
+   "zh": "贺兰山生态"
+  },
+  {
+   "en": "Smart Travel Planning",
+   "zh": "智慧行程规划"
+  }
+ ],
+ "quickPrompts": [
+  {
+   "zh": "一家四口去宁夏玩三天，预算5000元，想了解贺兰山文化，安排住宿、交通、特色美食和亲子研学，行程不要太累。",
+   "en": "A family of four visiting Ningxia for 3 days on a 5000 CNY budget, interested in Helan Mountain culture, needing lodging, transport, local food and kid-friendly study activities, and not too tiring."
+  },
+  {
+   "zh": "贺兰山岩画有什么历史文化价值？请给出可追溯的来源。",
+   "en": "What is the historical and cultural value of Helan Mountain rock art? Please give traceable sources."
+  },
+  {
+   "zh": "第二天我还想去沙坡头，尽量不超预算，帮我修订行程。",
+   "en": "I'd also like to add Shapotou on day 2, please keep it within budget and revise the itinerary."
+  }
+ ],
+ "members": [
+  {
+   "id": "helan-lingyou-ningxia-team-lead",
+   "displayName": {
+    "en": "Ning Zhiwei",
+    "zh": "宁知微"
+   },
+   "profession": {
+    "en": "Chief Orchestrator",
+    "zh": "首席调度官"
+   },
+   "avatar": "avatars/helan-lingyou-ningxia-team-lead.png",
+   "role": "lead"
+  },
+  {
+   "id": "helan-culture-expert",
+   "displayName": {
+    "en": "Xia Wenyuan",
+    "zh": "夏文渊"
+   },
+   "profession": {
+    "en": "Ningxia Culture Expert",
+    "zh": "宁夏文化专家"
+   },
+   "avatar": "avatars/helan-culture-expert.png",
+   "role": "member"
+  },
+  {
+   "id": "helan-ecology-expert",
+   "displayName": {
+    "en": "Yue Yanqing",
+    "zh": "岳岩青"
+   },
+   "profession": {
+    "en": "Helan Mountain Ecology Expert",
+    "zh": "贺兰山生态专家"
+   },
+   "avatar": "avatars/helan-ecology-expert.png",
+   "role": "member"
+  },
+  {
+   "id": "helan-travel-planner",
+   "displayName": {
+    "en": "Luo Zhicheng",
+    "zh": "骆知程"
+   },
+   "profession": {
+    "en": "Smart Travel Planning Expert",
+    "zh": "智慧文旅规划专家"
+   },
+   "avatar": "avatars/helan-travel-planner.png",
+   "role": "member"
+  },
+  {
+   "id": "helan-travel-data",
+   "displayName": {
+    "en": "Sha Qingchuan",
+    "zh": "沙晴川"
+   },
+   "profession": {
+    "en": "Travel Data Service Expert",
+    "zh": "文旅数据服务专家"
+   },
+   "avatar": "avatars/helan-travel-data.png",
+   "role": "member"
+  },
+  {
+   "id": "helan-verifier",
+   "displayName": {
+    "en": "Zhen Youju",
+    "zh": "甄有据"
+   },
+   "profession": {
+    "en": "Trustworthiness Verifier",
+    "zh": "可信核验专家"
+   },
+   "avatar": "avatars/helan-verifier.png",
+   "role": "member"
+  }
+ ]
+}
